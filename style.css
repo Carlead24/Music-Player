@@ -191,3 +191,9 @@ body{
         transform: rotate(360deg);
     }
 }
+
+.footer{
+    padding: 35px;
+    align-items: center;
+    justify-content: center;
+}
