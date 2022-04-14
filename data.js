@@ -2,12 +2,12 @@ let songs = [
     {
         name: 'Leave the door open',
         path: 'music/Bruno-Mars-Anderson-.Paak-Silk-Sonic-Leave-the-Door-Open.mp3',
-        artist:'Bruno Mars x Anderson Paak x Silk Sonic',
+        artist:'Bruno Mars x Anderson Paak',
         cover: 'images/Bruno.jpg'
     },
 
     {
-        name:'Kwaku The Traveler',
+        name:'Kwaku D Traveler',
         path:'music/Black Sherif - Kwaku The Traveler.mp3',
         artist:'Black Sherif',
         cover: 'images/Black.jpeg'
