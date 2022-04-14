@@ -1,6 +1,6 @@
 let songs = [
     {
-        name: 'Leave the door open',
+        name: 'Leave the door o.',
         path: 'music/Bruno-Mars-Anderson-.Paak-Silk-Sonic-Leave-the-Door-Open.mp3',
         artist:'Bruno Mars x Anderson Paak',
         cover: 'images/Bruno.jpg'
